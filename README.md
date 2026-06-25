@@ -1,2 +1,2 @@
-# Yuan-Yuan-Huang
-Optimal preconditioning techniques for finite volume approximation of three-dimensional conservative space-fractional diffusion equations
+# Optimal preconditioning techniques for finite volume approximation of three-dimensional conservative space-fractional diffusion equations
+This repository contains Matlab implementations of PCG(τ) and PGMRES(τ) methods for the three numerical experiments presented in the paper: "Optimal preconditioning techniques for finite volume approximation of three-dimensional conservative space-fractional diffusion equations".
